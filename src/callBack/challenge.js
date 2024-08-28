@@ -30,3 +30,8 @@ fethData(`${API}/products`, function(error1,data1){
         });
     });
 });
+
+
+// node src/callBack/challenge.js ===> en la terminal 
+
+//npm run callback
