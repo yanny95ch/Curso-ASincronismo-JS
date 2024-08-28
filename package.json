@@ -1,0 +1,17 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "javaScrip"
+  ],
+  "author": "Yani Chantre",
+  "license": "MIT ",
+  "description": "",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
